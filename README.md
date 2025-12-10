@@ -6,7 +6,7 @@ Ez egy klasszikus 3x3-as amőba játék, mely Python-ban íródott és használj
 
 ### Hogyan használd
 - A játék (amoba.py) futtatásához szükség lesz a Python környezetre a windows-on.
-- Ehhez telepítenünk kell a <a href="[https://git-scm.com/install/windows](https://www.python.org/ftp/python/3.14.0/python-3.14.0-amd64.exe)" target="_blank">Python futtató</a> környezetet.
+- Ehhez telepítenünk kell a <a href="https://www.python.org/ftp/python/3.14.0/python-3.14.0-amd64.exe" target="_blank">Python futtató</a> környezetet.
 - Játék letöltése innen: <a href="https://1drv.ms/f/c/1a1315e70abdfce2/IgAnuENKqisQQqSNxW9j-q4uAXu7t-Q6Zj6vHFVdRJcDN88?e=I3JXbJ">Amőba játék</a>
 
 #### Mire figyelj Python telepítéskor?
