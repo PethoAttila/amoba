@@ -20,12 +20,7 @@ Itt is egy y-t kell nyomnunk
 - Ez egy két játékos játék, klassikus 3x3-as felállás.
 - Minimális nehézségi szint.
 - Gépigény: minimális
+
+### Hogyan játszd?
 - A játék lényege, hogy egy vonalban (vízszintesen, függőlegesen, vagy átlósan) legyen meg az általad választott O (kör), vagy az X jel. 
 - Pályaméretet módosítani nem lehet, de a szokásos windows-os ablak sarkából egész művelettel végrehajtható az ablak méretének növelése/csökkentése.
-
-`inline code`
-```
-code block
-for multiple
-lines
-```
