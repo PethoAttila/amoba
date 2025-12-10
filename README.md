@@ -25,4 +25,4 @@ Ez egy klasszikus 3x3-as amőba játék, mely Python-ban íródott és használj
 - A játék lényege, hogy egy vonalban (vízszintesen, függőlegesen, vagy átlósan) legyen meg az általad választott O (kör), vagy az X jel. 
 - Pályaméretet módosítani nem lehet, de a szokásos windows-os ablak sarkából egész művelettel végrehajtható az ablak méretének növelése/csökkentése.
 
-## Jó szórakozást! :)
+## Jó szórakozást!
