@@ -9,12 +9,6 @@ Ez egy klasszikus 3x3-as amőba játék, mely Python-ban íródott és használj
 - Ehhez telepítenünk kell a <a href="https://www.python.org/ftp/python/3.14.0/python-3.14.0-amd64.exe" target="_blank">Python futtató</a> környezetet.
 - Játék letöltése innen: <a href="https://1drv.ms/f/c/1a1315e70abdfce2/IgAnuENKqisQQqSNxW9j-q4uAXu7t-Q6Zj6vHFVdRJcDN88?e=I3JXbJ">Amőba játék</a>
 
-#### Mire figyelj Python telepítéskor?
-- Add commands directory to your PATH now? [y/N]
-Itt nyomni kell egy y-t.
-- install CPython now? [y/N]
-Itt is egy y-t kell nyomnunk
-
 - Készen vagyunk! A view online help nem kell, nyomjunk egy n-t.
 
 ### Funkciók: Mit tud a program?
@@ -25,3 +19,5 @@ Itt is egy y-t kell nyomnunk
 ### Hogyan játszd?
 - A játék lényege, hogy egy vonalban (vízszintesen, függőlegesen, vagy átlósan) legyen meg az általad választott O (kör), vagy az X jel. 
 - Pályaméretet módosítani nem lehet, de a szokásos windows-os ablak sarkából egész művelettel végrehajtható az ablak méretének növelése/csökkentése.
+
+## Jó szórakozást! :)
