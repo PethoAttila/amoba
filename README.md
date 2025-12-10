@@ -9,8 +9,10 @@ Ez egy klasszikus 3x3-as amőba játék, mely Python-ban íródott és használj
 - Ehhez telepítenünk kell a <a href="https://www.python.org/ftp/python/3.14.0/python-3.14.0-amd64.exe" target="_blank">Python futtató</a> környezetet.
     - A telepítés végtelenül egyszerű:
     - Csak indítsd el, végig fut és ha kész, bezárhatod.
-    - Most már tud a windows-od python-ul
+    - Ezzel több feladatod már nem lesz.
+    - Most már tud a windows-od python-ul és...
 - Játék letöltése innen: <a href="https://1drv.ms/f/c/1a1315e70abdfce2/IgAnuENKqisQQqSNxW9j-q4uAXu7t-Q6Zj6vHFVdRJcDN88?e=I3JXbJ">Amőba játék</a>
+- A letöltött amoba.py fájlt el is tudod indítani.
 
 - Készen vagyunk! A view online help nem kell, nyomjunk egy n-t.
 
