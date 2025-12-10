@@ -14,7 +14,7 @@ Ez egy klasszikus 3x3-as amőba játék, mely Python-ban íródott és használj
 - Játék letöltése innen: <a href="https://1drv.ms/f/c/1a1315e70abdfce2/IgAnuENKqisQQqSNxW9j-q4uAXu7t-Q6Zj6vHFVdRJcDN88?e=I3JXbJ">Amőba játék</a>
 - A letöltött amoba.py fájlt el is tudod indítani.
 
-- Készen vagyunk! A view online help nem kell, nyomjunk egy n-t.
+- Készen is vagyunk!
 
 ### Funkciók: Mit tud a program?
 - Ez egy két játékos játék, klassikus 3x3-as felállás.
