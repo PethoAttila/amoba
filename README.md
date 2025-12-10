@@ -1,5 +1,5 @@
 # Amőba játék
-Két játékos
+## Két játékos
 
 ### Rövid leírás
 Ez egy klasszikus 3x3-as amőba játék, mely Python-ban íródott és használja a grafikus felületet.
